@@ -1,11 +1,11 @@
 /*---
-title: Update a choropleth layer by zoom level
+title:通过不同缩放级别更新专题图图层
 description: >-
-  Using 2014 census data, display state or county population depending on zoom
-  level.
+  依据不同的缩放等级，展现2014年各国各区县的人口普查数据
+  
 tags:
-  - layers
-  - user-interaction
+  - 图层
+  - 用户交互
 pathname: /mapbox-gl-js/example/updating-choropleth/
 ---*/
 import Example from '../../components/example';

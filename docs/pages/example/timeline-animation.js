@@ -1,11 +1,11 @@
 /*---
-title: 创建时间滚动条
+title: Create a time slider
 description: >-
-  通过滑动滚动条能够可视化展现发生在2015大于5.9级的地震.
-  
+  Drag the range slider to visualize earthquakes that were greater than 5.9
+  magnitude in 2015.
 tags:
-  - 用户交互
-  - 来源
+  - user-interaction
+  - sources
 pathname: /mapbox-gl-js/example/timeline-animation/
 ---*/
 import Example from '../../components/example';

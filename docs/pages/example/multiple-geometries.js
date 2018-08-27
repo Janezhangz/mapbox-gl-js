@@ -1,8 +1,8 @@
 /*---
-title: Add multiple geometries from one GeoJSON source
-description: Add a polygon and circle layer from the same GeoJSON source
+title: 从一个GeoJSON源中添加多种类型的几何图形
+description: 从相同的GeoJSON源中添加多边形和圆形图层
 tags:
-  - layers
+  - 图层
 pathname: /mapbox-gl-js/example/multiple-geometries/
 ---*/
 import Example from '../../components/example';
